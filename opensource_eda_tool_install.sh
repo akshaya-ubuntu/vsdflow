@@ -79,6 +79,8 @@ sudo apt-get install -y \
   python3 python3-pip python3-tk \
   gsl-bin libgsl-dev \
   swig \
+  libeigen3-dev \
+  libgtest-dev googletest \
   yosys \
   iverilog \
   gtkwave
